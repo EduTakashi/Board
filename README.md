@@ -2,7 +2,7 @@
 
 Projeto de boards de tarefas para gerenciar tarefas com java e SQL
 
-## 🗂 Estrutura das Tabelas
+##  Estrutura das Tabelas
 
 ###  BOARDS
 | Campo | Tipo |
