@@ -28,7 +28,7 @@ Projeto de boards de tarefas para gerenciar tarefas com java e SQL
 | title | VARCHAR(255) NOT NULL |
 | description | VARCHAR(255) NOT NULL |
 | board_column_id | BIGINT NOT NULL |
-| 🔗 Foreign Key | `board_column_id` → `BOARDS_COLUMNS(id)` (ON DELETE CASCADE) |
+| Foreign Key | `board_column_id` → `BOARDS_COLUMNS(id)` (ON DELETE CASCADE) |
 
 ###  BLOCKS
 | Campo | Tipo |
